@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>The best movies according to Daniel!</h1>
+  <h1>The best movies according to Daniel!</h1>
   <h2>My favourite movies on one page!</h2>
   <hr />
   <h2>Star Wars</h2>
@@ -13,5 +13,5 @@
   <p>Whereas Star Wars focuses on a single, Skywalker-centric story, Star Trek offers a vast universe to explore.  Instead of a clear-cut rebellion, Star Trek's crew boldly goes on missions of exploration and diplomacy, encountering new civilizations and tackling moral dilemmas. It's more optimistic about the future, portraying humanity venturing out into space not for war, but for scientific discovery and peaceful coexistence.
 
     If you enjoy the space battles and alien encounters of Star Wars, Star Trek offers a different kind of adventure. It's less about lightsabers and more about thought-provoking ideas and exploring the potential of humanity.</p>
- </body>
+</body>
 </html>
